@@ -1,0 +1,112 @@
+---
+object: card
+id: ef37f9bd-25bb-46e6-80a0-60948232a2ac
+oracle_id: d8f5279f-c58e-4560-9c68-77d226a3c86c
+multiverse_ids: []
+tcgplayer_id: 158498
+cardmarket_id: 22471
+name: Order of Leitbur
+lang: en
+released_at: '1996-05-01'
+uri: https://api.scryfall.com/cards/ef37f9bd-25bb-46e6-80a0-60948232a2ac
+scryfall_uri: https://scryfall.com/card/ptc/bl16a/order-of-leitbur?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/f/ef37f9bd-25bb-46e6-80a0-60948232a2ac.jpg?1562939936
+  normal: https://cards.scryfall.io/normal/front/e/f/ef37f9bd-25bb-46e6-80a0-60948232a2ac.jpg?1562939936
+  large: https://cards.scryfall.io/large/front/e/f/ef37f9bd-25bb-46e6-80a0-60948232a2ac.jpg?1562939936
+  png: https://cards.scryfall.io/png/front/e/f/ef37f9bd-25bb-46e6-80a0-60948232a2ac.png?1562939936
+  art_crop: https://cards.scryfall.io/art_crop/front/e/f/ef37f9bd-25bb-46e6-80a0-60948232a2ac.jpg?1562939936
+  border_crop: https://cards.scryfall.io/border_crop/front/e/f/ef37f9bd-25bb-46e6-80a0-60948232a2ac.jpg?1562939936
+mana_cost: "{W}{W}"
+cmc: 2.0
+type_line: Creature — Human Cleric Knight
+oracle_text: |-
+  Protection from black
+  {W}: Order of Leitbur gains first strike until end of turn.
+  {W}{W}: Order of Leitbur gets +1/+0 until end of turn.
+power: '2'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Protection
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d909bcc0-dda6-4802-a5bc-a8e57ddd4dea
+set: ptc
+set_name: Pro Tour Collector Set
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/d909bcc0-dda6-4802-a5bc-a8e57ddd4dea
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ef37f9bd-25bb-46e6-80a0-60948232a2ac/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad8f5279f-c58e-4560-9c68-77d226a3c86c&unique=prints
+collector_number: bl16a
+digital: false
+rarity: common
+flavor_text: 'Followers of Tourach regarded all other religions equally: with open
+  contempt. Not so the followers of Leitbur, who made it their mission to eradicate
+  the Order of the Ebon Hand.'
+card_back_id: 774519d7-8b63-46cd-98fc-7944b50d762c
+artist: Bryon Wackwitz
+artist_ids:
+- c99a114b-c679-47df-a6e9-4f9d3ad5b114
+illustration_id: aea7dd30-66b4-4c28-b555-5920a3870864
+border_color: gold
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 22733
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.80'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Order+of+Leitbur&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Order+of+Leitbur&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Order+of+Leitbur
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/158498?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Order+of+Leitbur&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Order+of+Leitbur&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

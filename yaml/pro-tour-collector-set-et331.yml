@@ -1,0 +1,102 @@
+---
+object: card
+id: d102fea4-e43d-42df-b5e6-31c8007658ee
+oracle_id: 39ee576a-0803-4063-9c84-f2b537e4d44c
+multiverse_ids: []
+tcgplayer_id: 158542
+cardmarket_id: 22678
+name: Jayemdae Tome
+lang: en
+released_at: '1996-05-01'
+uri: https://api.scryfall.com/cards/d102fea4-e43d-42df-b5e6-31c8007658ee
+scryfall_uri: https://scryfall.com/card/ptc/et331/jayemdae-tome?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/1/d102fea4-e43d-42df-b5e6-31c8007658ee.jpg?1562934056
+  normal: https://cards.scryfall.io/normal/front/d/1/d102fea4-e43d-42df-b5e6-31c8007658ee.jpg?1562934056
+  large: https://cards.scryfall.io/large/front/d/1/d102fea4-e43d-42df-b5e6-31c8007658ee.jpg?1562934056
+  png: https://cards.scryfall.io/png/front/d/1/d102fea4-e43d-42df-b5e6-31c8007658ee.png?1562934056
+  art_crop: https://cards.scryfall.io/art_crop/front/d/1/d102fea4-e43d-42df-b5e6-31c8007658ee.jpg?1562934056
+  border_crop: https://cards.scryfall.io/border_crop/front/d/1/d102fea4-e43d-42df-b5e6-31c8007658ee.jpg?1562934056
+mana_cost: "{4}"
+cmc: 4.0
+type_line: Artifact
+oracle_text: "{4}, {T}: Draw a card."
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d909bcc0-dda6-4802-a5bc-a8e57ddd4dea
+set: ptc
+set_name: Pro Tour Collector Set
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/d909bcc0-dda6-4802-a5bc-a8e57ddd4dea
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d102fea4-e43d-42df-b5e6-31c8007658ee/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A39ee576a-0803-4063-9c84-f2b537e4d44c&unique=prints
+collector_number: et331
+digital: false
+rarity: rare
+card_back_id: 774519d7-8b63-46cd-98fc-7944b50d762c
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: 438a22fe-b464-49b7-b44b-717ce9056d51
+border_color: gold
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 14612
+penny_rank: 3335
+prices:
+  usd: '3.31'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.62'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Jayemdae+Tome&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Jayemdae+Tome&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Jayemdae+Tome
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/158542?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jayemdae+Tome&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jayemdae+Tome&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

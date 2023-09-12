@@ -1,0 +1,108 @@
+---
+object: card
+id: 9084cba0-dd0f-44b0-951f-d76f9a487e83
+oracle_id: 5578cf33-62f5-456c-a58c-f744a25df79b
+multiverse_ids: []
+tcgplayer_id: 160825
+cardmarket_id: 22926
+name: Svyelunite Temple
+lang: en
+released_at: '1996-05-01'
+uri: https://api.scryfall.com/cards/9084cba0-dd0f-44b0-951f-d76f9a487e83
+scryfall_uri: https://scryfall.com/card/ptc/shr102/svyelunite-temple?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/0/9084cba0-dd0f-44b0-951f-d76f9a487e83.jpg?1562921837
+  normal: https://cards.scryfall.io/normal/front/9/0/9084cba0-dd0f-44b0-951f-d76f9a487e83.jpg?1562921837
+  large: https://cards.scryfall.io/large/front/9/0/9084cba0-dd0f-44b0-951f-d76f9a487e83.jpg?1562921837
+  png: https://cards.scryfall.io/png/front/9/0/9084cba0-dd0f-44b0-951f-d76f9a487e83.png?1562921837
+  art_crop: https://cards.scryfall.io/art_crop/front/9/0/9084cba0-dd0f-44b0-951f-d76f9a487e83.jpg?1562921837
+  border_crop: https://cards.scryfall.io/border_crop/front/9/0/9084cba0-dd0f-44b0-951f-d76f9a487e83.jpg?1562921837
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Svyelunite Temple enters the battlefield tapped.
+  {T}: Add {U}.
+  {T}, Sacrifice Svyelunite Temple: Add {U}{U}.
+colors: []
+color_identity:
+- U
+keywords: []
+produced_mana:
+- U
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d909bcc0-dda6-4802-a5bc-a8e57ddd4dea
+set: ptc
+set_name: Pro Tour Collector Set
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/d909bcc0-dda6-4802-a5bc-a8e57ddd4dea
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9084cba0-dd0f-44b0-951f-d76f9a487e83/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5578cf33-62f5-456c-a58c-f744a25df79b&unique=prints
+collector_number: shr102
+digital: false
+rarity: uncommon
+card_back_id: 774519d7-8b63-46cd-98fc-7944b50d762c
+artist: Mark Poole
+artist_ids:
+- bfdeaf09-f915-4058-8e8b-bcac3bc43c33
+illustration_id: 7e51c02b-2641-4fd1-a91d-af4ef2b15ec9
+border_color: gold
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 11593
+penny_rank: 1368
+prices:
+  usd: '0.25'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.69'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Svyelunite+Temple&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Svyelunite+Temple&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Svyelunite+Temple
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/160825?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Svyelunite+Temple&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Svyelunite+Temple&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
